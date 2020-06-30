@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 #include <string.h>
-#include "infantry.h"
-#include "player.h"
-#include "bonus.h"
+#include "infantry.hpp"
+#include "player.hpp"
+#include "bonus.hpp"
 
 /**
  *

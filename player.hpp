@@ -1,7 +1,7 @@
 #ifndef PLAYER_H
 #define PLAYER_H
 
-#include "bonus.h"
+#include "bonus.hpp"
 
 typedef struct {
     int id;
